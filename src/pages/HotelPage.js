@@ -275,7 +275,7 @@ const HotelPage = () => {
                           </a>
                         </div>
                       </Link>
-                    ) : item.id == 2 || item.id == 3 ? (
+                    ) : item.id == 3 ? (
                       <Link
                         className="first-part-our-location"
                         key={index}

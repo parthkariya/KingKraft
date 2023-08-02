@@ -1,20 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e6676d26.css",
-    "main.js": "/static/js/main.cb46c6cf.js",
+    "main.js": "/static/js/main.8f8698b2.js",
     "static/js/787.ae859007.chunk.js": "/static/js/787.ae859007.chunk.js",
-    "static/media/heroimg2.webp": "/static/media/heroimg2.1a1aa6cb5bdfc01aa436.webp",
-    "static/media/heroimg3.webp": "/static/media/heroimg3.4c311cfd939a6ffa66f4.webp",
-    "static/media/heroimg4.webp": "/static/media/heroimg4.dbb83d11584bf311ae16.webp",
-    "static/media/heroimg1.webp": "/static/media/heroimg1.580022954d2ce167a375.webp",
-    "static/media/heroimg5.webp": "/static/media/heroimg5.9fae40ba5925d68fca0e.webp",
-    "static/media/sasan-img15.webp": "/static/media/sasan-img15.fc43123762954820e9b1.webp",
     "static/media/prabhu-home-heroo1.webp": "/static/media/prabhu-home-heroo1.2617c6dcf33d12799f9f.webp",
     "static/media/wed8.webp": "/static/media/wed8.be48e1e5c70ce748b9c7.webp",
+    "static/media/sasan-img15.webp": "/static/media/sasan-img15.1685101aa96797319438.webp",
     "static/media/prabhu-img26.webp": "/static/media/prabhu-img26.0fae0c75d99c8e2fc635.webp",
     "static/media/wed9.webp": "/static/media/wed9.893e7dec6772b6f6a864.webp",
     "static/media/wed11.webp": "/static/media/wed11.7bbcb252aff91966e3d7.webp",
     "static/media/wed2.webp": "/static/media/wed2.7a5b9926dfbcabff4018.webp",
+    "static/media/heroimg2.webp": "/static/media/heroimg2.5ac5c2c2f03bf898813d.webp",
     "static/media/prabhu-img12.webp": "/static/media/prabhu-img12.7b64fc020dbbde9691ef.webp",
     "static/media/keylogo.webp": "/static/media/keylogo.2150d958b6ad3b8d2548.webp",
     "static/media/wed1.webp": "/static/media/wed1.de6ea6850b1a139c9798.webp",
@@ -26,10 +22,14 @@
     "static/media/prabhu-img14.webp": "/static/media/prabhu-img14.144466adc0aa13e6b934.webp",
     "static/media/wed12.webp": "/static/media/wed12.cbf09ca2990b7fa1aab4.webp",
     "static/media/prabhu-img2.webp": "/static/media/prabhu-img2.609389d3df82a446a963.webp",
+    "static/media/heroimg5.webp": "/static/media/heroimg5.124927fd1ee5443292c5.webp",
+    "static/media/heroimg1.webp": "/static/media/heroimg1.c56b100d81c16f608ba3.webp",
+    "static/media/heroimg3.webp": "/static/media/heroimg3.7e0d7672474b4a84389e.webp",
     "static/media/prabhu-img9.webp": "/static/media/prabhu-img9.496230995b5c4b04c36d.webp",
     "static/media/sasan-img12.webp": "/static/media/sasan-img12.8de2852683e6f21e0577.webp",
     "static/media/sasan-img13.webp": "/static/media/sasan-img13.5e2da5c4a8b9b213020f.webp",
     "static/media/prabhu-img4.webp": "/static/media/prabhu-img4.e92f7d6feb384d3d2d03.webp",
+    "static/media/heroimg4.webp": "/static/media/heroimg4.06a52d613b01309be696.webp",
     "static/media/stayinn-img4.webp": "/static/media/stayinn-img4.44e0ed19dcbe7b8ead25.webp",
     "static/media/logo05.webp": "/static/media/logo05.fa5edb935b6302f067c1.webp",
     "static/media/00-Chess-King.webp": "/static/media/00-Chess-King.62e75372d7352bf84c61.webp",
@@ -67,11 +67,11 @@
     "static/media/key_sec_logo1.webp": "/static/media/key_sec_logo1.1e39f48bf32534e54091.webp",
     "index.html": "/index.html",
     "main.e6676d26.css.map": "/static/css/main.e6676d26.css.map",
-    "main.cb46c6cf.js.map": "/static/js/main.cb46c6cf.js.map",
+    "main.8f8698b2.js.map": "/static/js/main.8f8698b2.js.map",
     "787.ae859007.chunk.js.map": "/static/js/787.ae859007.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6676d26.css",
-    "static/js/main.cb46c6cf.js"
+    "static/js/main.8f8698b2.js"
   ]
 }

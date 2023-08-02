@@ -21,8 +21,13 @@ const Hotel1 = () => {
   const HotelName = location.state.item.title;
   console.log("image-slider", HotelName);
 
+  useEffect(() => {
+    console.log("location.state.item.propertyamenities is", location.state.item.propertyamenities);
+  }, [])
+
   return (
     <>
+
       <Helmet>
 
         <script type="application/ld+json">

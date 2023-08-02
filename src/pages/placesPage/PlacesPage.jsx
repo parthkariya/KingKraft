@@ -14,7 +14,7 @@ const PlacesPage = (props) => {
   const location = useLocation();
 
   useEffect(() => {
-    console.log("location_list -->", location.state.place);
+    console.log("location_list -->", location.state);
     setfirst(props.ref);
     window.scrollTo(0, 0);
 
@@ -145,7 +145,10 @@ const PlacesPage = (props) => {
 
       <a
         className="whats-app"
-        href="https://api.whatsapp.com/send?phone=9879964314"
+        href={
+          "https://api.whatsapp.com/send?phone=" +
+          `${location.state.number}`
+        }
         target="_blank"
         rel="noreferrer"
       >

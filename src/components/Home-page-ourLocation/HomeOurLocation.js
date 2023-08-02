@@ -34,6 +34,7 @@ const HomeOurLocation = (props) => {
                       state={{
                         item: item.property,
                         place: item.name,
+                        number: item.number,
                         id: item.id,
                       }}
                     >
@@ -50,7 +51,7 @@ const HomeOurLocation = (props) => {
                         </a>
                       </div>
                     </Link>
-                  ) : item.name === "Jamnagar" || item.name === "Somnath" ? (
+                  ) : item.name === "Somnath" ? (
                     <Link
                       className="first-part-our-location"
                       key={index}
